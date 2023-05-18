@@ -1,5 +1,10 @@
-### Hi there 👋
+### 👋 Hi there, I'm Niko! 👋
 
+🌱 I'm a 23-year-old Computer Science student from Wedel, near Hamburg, Germany.
+
+🔭 Currently, I'm working as a student developer for a medium-sized company in Wedel, where I mainly do C# and database development.
+
+👯 I'm looking forward to contributing to the open source community. I really like the idea of collaborating and learning with people from all over the world.
 <!--
 **nikolaspoczekaj/nikolaspoczekaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
