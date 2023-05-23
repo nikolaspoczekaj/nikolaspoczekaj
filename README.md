@@ -4,7 +4,7 @@
 
 🔭 Currently, I'm working as a student developer for a medium-sized company in Wedel, where I mainly do C# and database development.
 
-👯 I'm looking forward to contributing to the open source community, because I really like the idea of collaborating and learning with people from all over the world.
+👯 I'm looking forward to contributing to the open source community.
 <!--
 **nikolaspoczekaj/nikolaspoczekaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
