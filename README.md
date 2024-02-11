@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Niko! 👋
 
-🌱 I'm a 23-year-old Computer Science student from Wedel, near Hamburg, Germany.
+🌱 I'm a 24-year-old Computer Science student from Wedel, near Hamburg, Germany.
 
 🔭 Currently, I'm working as a student developer for a medium-sized company in Wedel, where I mainly do C# and database development.
 
