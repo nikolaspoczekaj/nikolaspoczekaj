@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Niko! 👋
+###  Niko Poczekaj 
 
 🌱 I'm a 24-year-old Computer Science student from Wedel, near Hamburg, Germany.
 
-🔭 Currently, I'm working as a student developer for a medium-sized company in Wedel, where I mainly do C# and database development.
+🔭 Currently, I'm working as a student developer for a medium-sized company in Wedel, where I do Python, React.js and database development.
 
 👯 I'm looking forward to contributing to the open source community.
 <!--
