@@ -1,6 +1,6 @@
 ###  Niko Poczekaj 
 
-🌱 I'm a 24-year-old Software Engeneer from Wedel, near Hamburg, Germany.
+🌱 I'm a 24-year-old Software Engineer from Wedel, near Hamburg, Germany.
 
 🔭 Currently, I'm working as a developer for a medium-sized company in Wedel, where I do Python, React.js and database development.
 
