@@ -1,21 +1,27 @@
-###  Niko Poczekaj 
+## Niko Poczekaj
 
-🌱 I'm a 24-year-old Software Engineer from Wedel, near Hamburg, Germany.
+I'm a 25-year-old software developer based near Hamburg, Germany, holding a B.Sc. in Business Informatics. Currently, I work as a developer at a mid-sized company in the technical services sector.
 
-🔭 Currently, I'm working as a developer for a medium-sized company in Wedel, where I do Python, React.js and database development.
+## About Me
 
-👯 I'm looking forward to contributing to the open source community.
-<!--
-**nikolaspoczekaj/nikolaspoczekaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | Technical Services Industry
 
-Here are some ideas to get you started:
+🎓 B.Sc. Business Informatics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Based near Hamburg, Germany
+
+🧠 Passionate about innovation, AI, and the intersection of business and technology
+
+🤝 Eager to contribute to the open source community
+
+## Tech Stack & Skills
+
+Languages: Python, C#
+
+Databases: SQL, relational and non-relational systems
+
+Other: Automation, data processing, backend development
+
+
+
+I'm actively working on ![RefactorAI](https://github.com/nikolaspoczekaj/RefactorAI), a project aimed at leveraging AI to improve and automate code refactoring processes.
