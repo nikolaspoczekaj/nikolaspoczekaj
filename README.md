@@ -4,15 +4,15 @@ I'm a 25-year-old software developer based near Hamburg, Germany, holding a B.Sc
 
 ## About Me
 
-💻 Software Developer | Technical Services Industry
+Software Developer | Technical Services Industry
 
-🎓 B.Sc. Business Informatics
+B.Sc. Business Informatics
 
-🌍 Based near Hamburg, Germany
+Based near Hamburg, Germany
 
-🧠 Passionate about innovation, AI, and the intersection of business and technology
+Passionate about innovation, AI, and the intersection of business and technology
 
-🤝 Eager to contribute to the open source community
+Eager to contribute to the open source community
 
 ## Tech Stack & Skills
 
@@ -22,6 +22,3 @@ Databases: SQL, relational and non-relational systems
 
 Other: Automation, data processing, backend development
 
-
-
-I'm actively working on ![RefactorAI](https://github.com/nikolaspoczekaj/RefactorAI), a project aimed at leveraging AI to improve and automate code refactoring processes.
