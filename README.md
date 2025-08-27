@@ -18,7 +18,7 @@ Eager to contribute to the open source community
 
 ## Tech Stack & Skills
 
-Languages: Python, C#
+Languages: Python, C#, HTML
 
 Databases: SQL, relational and non-relational systems
 
