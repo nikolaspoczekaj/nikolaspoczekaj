@@ -1,6 +1,8 @@
 ## Niko Poczekaj
 
-I'm a 25-year-old software developer based near Hamburg, Germany, holding a B.Sc. in Business Informatics. Currently, I work as a developer at a mid-sized company in the technical services sector.
+Developer based near Hamburg, Germany, holding a B.Sc. in Business Informatics. 
+Currently working as a developer at a mid-sized company in the technical services sector.
+Founder of Meyer & Poczekaj.
 
 ## About Me
 
