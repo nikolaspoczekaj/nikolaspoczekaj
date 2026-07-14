@@ -16,11 +16,4 @@ Passionate about innovation, AI, and the intersection of business and technology
 
 Eager to contribute to the open source community
 
-## Tech Stack & Skills
-
-Languages: Python, C#, HTML
-
-Databases: SQL, relational and non-relational systems
-
-Other: Automation, data processing, backend development
 
