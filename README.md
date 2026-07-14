@@ -16,4 +16,8 @@ Passionate about innovation, AI, and the intersection of business and technology
 
 Eager to contribute to the open source community
 
+## Projects
+
+**[Clavis](https://clavis-dsgvo.de)** - On-Premise GDPR Data Protection Management Software. Simple Setup via Docker Images. Try for free.
+
 
